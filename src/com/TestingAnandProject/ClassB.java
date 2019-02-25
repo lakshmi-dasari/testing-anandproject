@@ -12,7 +12,7 @@ public class ClassB {
 		System.out.println(objname1.getB());
 		
 		
-		ClassA objname2 = new ClassA(3,5);
+		ClassA objname2 = new ClassA(4,5);
 		
 		
 		System.out.println(objname2.getA());
